@@ -1,0 +1,10 @@
+E:\VSprogram\thinger.OPCDemo\bin\Debug\thinger.OPCDemo.exe.config
+E:\VSprogram\thinger.OPCDemo\bin\Debug\thinger.OPCDemo.exe
+E:\VSprogram\thinger.OPCDemo\bin\Debug\thinger.OPCDemo.pdb
+E:\VSprogram\thinger.OPCDemo\obj\Debug\thinger.OPCDemo.csproj.AssemblyReference.cache
+E:\VSprogram\thinger.OPCDemo\obj\Debug\thinger.OPCDemo.Form1.resources
+E:\VSprogram\thinger.OPCDemo\obj\Debug\thinger.OPCDemo.Properties.Resources.resources
+E:\VSprogram\thinger.OPCDemo\obj\Debug\thinger.OPCDemo.csproj.GenerateResource.cache
+E:\VSprogram\thinger.OPCDemo\obj\Debug\thinger.OPCDemo.csproj.CoreCompileInputs.cache
+E:\VSprogram\thinger.OPCDemo\obj\Debug\thinger.OPCDemo.exe
+E:\VSprogram\thinger.OPCDemo\obj\Debug\thinger.OPCDemo.pdb
